@@ -69,4 +69,4 @@ Max.pkt size:		0040
 Polling interval:	01
 
 
-Addr:1(0.0.1)
+Addr:1(0.0.1)
